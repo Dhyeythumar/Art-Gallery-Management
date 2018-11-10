@@ -10,10 +10,10 @@ The Art Gallery Management provides the following functionalities :
   > Update details of an existing art painting.
 To use these functionalities an existing admin must login first by clicking on the login button. Login will be successful if the username and password provided by the admin matches with the ones saved in the database. If the details do not match, an ‘Invalid User’ message will be displayed and the user will have to enter the details again. 
 The paintings are uploaded to one of the four categories :
-  >	Abstract art
-  >	Portraits
-  >	Landscapes
-  >	Still life
+  >	Abstract art.
+  >	Portraits.
+  >	Landscapes.
+  >	Still life.
 The images links are not uploaded on the database but they are accessed by their type and the title to display the images. All the details of art paintings can be retrieved from the database and updated easily. 
 Home page :
 User can search the images on the bases of their titles.And the image will be displayed in the belove label.
@@ -30,13 +30,4 @@ To update an existing art piece first select the art piece from the search field
 Add another admin:
 To add another admin, all the fields need to be filled. Clicking on the Add Admin Button will add a new admin to the database. This user can then login as an admin later to ascess the other features. Cancel Button will clear all the fields without adding the details.
 And at last the log out button is provided to loggout from all the pannels and go to the home page.\
-  This project is created on one Frame Multiple Pannel system. 
-
-
-
-
-
-
-
-
-
+  > This project is created on one Frame Multiple Pannel system. 
