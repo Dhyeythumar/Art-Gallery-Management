@@ -7,20 +7,20 @@ Art Gallery Management can lead to an error free, secure, reliable and fast mana
 The main objective of this project is to manage details about art paintings and admins in an efficient manner. The purpose of this project is to build an application program to reduce the manual work of managing art paintings and their details.
 
 The Art Gallery Management provides the following functionalities :
-  > Add a Admin.                                                                                                                            Add an art painting.
-   Remove an art painting.
-   Update details of an existing art painting.
+  > Add a Admin.
+  Add an art painting.
+  Remove an art painting.
+  Update details of an existing art painting.
   
 To use these functionalities an existing admin must login first by clicking on the login button. Login will be successful if the username and password provided by the admin matches with the ones saved in the database. If the details do not match, an ‘Invalid User’ message will be displayed and the user will have to enter the details again. 
 
 The paintings are uploaded to one of the four categories :
-  > Abstract art.
+  > Abstract art.\n
   Portraits.
   Landscapes.
   Still life.
   
 The images links are not uploaded on the database but they are accessed by their type and the title to display the images. All the details of art paintings can be retrieved from the database and updated easily.
-
 Home page :
 
 User can search the images on the bases of their titles.And the image will be displayed in the belove label.
